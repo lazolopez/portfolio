@@ -4,4 +4,4 @@ Este proyecto muestra mis habilidades en desarrollo web front-end, con un diseñ
 
 Clonado y primeros pasos en desarrollo web
 
-https://lazolopez.github.io/portfolio-main/
+https://lazolopez.github.io/portfolio/
